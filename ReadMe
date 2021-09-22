@@ -1,0 +1,13 @@
+Powershell module to get list of installed software across environment. 
+
+Setup:
+    -Save folder on local machine at C:\Users\<username>\Documents\WindowsPowerShell
+    -As admininsrator open powershell and run command: Import-Module Get-DistributedSoftware
+
+Running:
+    -execute command Get-DistributedSoftware
+    (follow prompt to enter .txt file path for client list)
+
+Results:
+Output saved on local machine at C:\temp\InstalledSoftware.csv
+Open file in excel
