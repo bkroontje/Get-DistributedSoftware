@@ -1,5 +1,5 @@
 ﻿#-------------------------------------------------------------------------
-# Author      : kroontjb
+# Author      : bkroontje
 # FileName    : Get-DistributedSoftware
 # Version     : 1.0
 # Revision    :
